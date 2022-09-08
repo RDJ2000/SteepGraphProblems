@@ -1,0 +1,29 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+/*
+this is comment...............
+.............
+............................
+*/
+// Problem statement
+//Create an array tower(a) containing all element in ascending order
+//solution statement
+//we have two more towers with same capacity, tower(b) as auxiliary and tower(c) as destination
+/*
+this is comment...............
+.............
+............................
+*/
+//start operation
+//check if there is only one disk in source
+//move to destination and come out
+//move n-1 disks from source to auxiliary
+//move nth disc from source to dest
+//this is being handeled by if condition
+//move n-1 disks from auxiliary to dest
+/*
+this is comment...............
+.............
+............................
+*/
+//this is main function
